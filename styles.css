@@ -3,6 +3,19 @@
     src: url(assets/font/Poppins-Light.ttf);
 }
 
+a:link{
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited{
+  text-decoration: none;
+  color: inherit;
+}
+a:hover{
+  text-decoration-line: underline;
+  color: inherit;
+}
 /* --------------------------------- telas Maiores que 1366px ---------------------------------  */
 
 body{
@@ -359,6 +372,20 @@ hr{
     padding: 22px 34px 21px 0px;
   }
 
+  /* -----------------------------------  Main ------------------------------------ */
+  .main-container-image{
+    display: flex;
+    padding: 56px 179px 55px 181px;
+  }
+  .main-content-image-style{
+    width: 528px;
+    height: 472px;
+    padding: 0 12px 0 12px;
+  }
+
+  .main-text-img{
+    display: text;
+  }
 
   /* ----------------------------------- Footer ----------------------------------- */
 
