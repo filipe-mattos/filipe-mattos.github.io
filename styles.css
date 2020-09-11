@@ -296,7 +296,7 @@ footer{
 
 dl{
   display: inline-block;
-  margin: 0 0 0 8%;
+  margin: 0 4% 0 4%;
 }
     
 hr{
@@ -637,7 +637,7 @@ hr{
 
   dl{
     display: inline-block;
-    margin: 0 0 0 8%;
+    margin: 0 4% 0 4%;
   }
       
   hr{
@@ -667,10 +667,6 @@ hr{
 
   .footer-small-list-container{
     position: relative;
-  }
-
-  .detalheTexto{
-    font-style: s
   }
     
   .logo{
