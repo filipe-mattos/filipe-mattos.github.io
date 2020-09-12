@@ -449,9 +449,9 @@ hr{
   }
 
   .header-logo{
-    padding: 13px 34px;
-    width: 51.4px;
-    height: 40px;
+    padding: 8px 80px 13px 80px;
+    width: 140px;
+    height: 50px;
   }
 
   .header-menu-search{
