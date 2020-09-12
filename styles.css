@@ -75,7 +75,7 @@ padding:0;
   list-style: none;
   display: flex;
   justify-items: flex-start;
-  padding: 0 138px 0 46PX;
+  padding: 0 46px 0 46PX;
 }
 
 .header-menu-content-left{
@@ -93,7 +93,7 @@ padding:0;
   list-style: none;
   display: flex;
   justify-items: flex-end;
-  padding: 0 0 0 138px;
+  padding: 0 0 0 46px;
 }
 
 .header-menu-content-right{
@@ -108,9 +108,9 @@ padding:0;
 }
 
 .header-logo{
-  padding: 13px 34px;
-  width: 51.4px;
-  height: 40px;
+  padding: 8px 80px 13px 80px;
+  width: 140px;
+  height: 50px;
 }
 
 .header-menu-search{
