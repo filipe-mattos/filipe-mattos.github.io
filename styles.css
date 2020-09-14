@@ -5,17 +5,19 @@
 
 a:link{
   text-decoration: none;
-  color: inherit;
+  color:#163F50;
 }
 
 a:visited{
   text-decoration: none;
-  color: inherit;
+  color:#163F50;
 }
+
 a:hover{
   text-decoration-line: underline;
-  color: inherit;
+  color:#163F50;
 }
+
 /* --------------------------------- telas Maiores que 1366px ---------------------------------  */
 
 body{
@@ -212,10 +214,15 @@ padding:0;
 
 .main-text-botom-content{
   font-size: 16px;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: uppercase;
   line-height: 19px;
   font-family: Poppins;
   padding: 11.57px 50px;
+  color:#163F50;
 }
+
 
 
 /* ----------------------------------- Footer ----------------------------------- */
@@ -255,7 +262,7 @@ footer{
   font-weight: normal;
   font-size: 14px;
   text-align: left;
-  color: #003F52;
+  color: #163F50;
 }
 
 .footer-table-content-logo-style{
@@ -554,9 +561,13 @@ hr{
 
   .main-text-botom-content{
     font-size: 16px;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: uppercase;
     line-height: 19px;
     font-family: Poppins;
     padding: 11.57px 50px;
+    color:#163F50;
   }
 
   /* ----------------------------------- Footer ----------------------------------- */
